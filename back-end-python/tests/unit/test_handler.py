@@ -1,6 +1,5 @@
 from gameactions import app
 from botocore.exceptions import ClientError
-
 import uuid
 import json
 from unittest import mock
